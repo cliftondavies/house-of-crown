@@ -17,7 +17,6 @@
 - React
 - Redux
 - Firebase
-- Stripe
 
 ## :rocket: Getting Started
 
