@@ -1,6 +1,6 @@
 # House of Crown
 
-> A full-stack ecommerce app.
+> An ecommerce app.
 
 ## :tv: Media
 
@@ -87,6 +87,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgements
 
 - [create-react-app](https://github.com/facebook/create-react-app)
+- [Heroku buildpack for create-react-app](https://github.com/mars/create-react-app-buildpack)
 
 ## 📝 Copyright & License
 
